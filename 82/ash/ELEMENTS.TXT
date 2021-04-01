@@ -1,0 +1,65 @@
+ELEMENTS v1.0                                                  30 November 1999
+=============
+for ASH on the TI-82
+by badja
+http://move.to/badja
+badja@alphalink.com.au
+
+82 conversion by: Sam Heald (evil_sam@hotmail.com)
+
+About
+=====
+Elements is a puzzle game in which you must guide yourself to the exit before
+you run out of energy. There are 7 boards with a total of 46 screens,
+containing one-way arrows, keys, bonuses, traps and various switches.
+
+
+How to Play
+===========
+At the title screen, press the 2ND key to play the selected board. Initially
+you will only be able to play board 1.
+
+At the start of board 1 you begin in the top-left corner (the white circle).
+Use the arrow keys to move around. Notice that each time you move, you lose
+some energy. You must complete the entire board (consisting of multiple
+screens) without running out of energy. Exit each screen on the right-hand
+side. Be aware that making mistakes on one screen can make the next screen
+impossible.
+
+The following is a description of all the objects you'll encounter:
+
+cross           You must reach the cross to complete each board
+battery         Boosts your energy
+small box       Worth 50 points
+arrow           You may only travel in the direction of the arrow
+light/dark key  You may hold only one of each key at a time
+light/dark lock Unlocks doors of the same color
+light/dark door These are removed using a key with a lock
+black circle    Hole
+1               Extra life
+switch          Switches the directions of all arrows on current screen
+round button    Inverts the color of all doors on current screen
+square button   Fills all holes on current screen
+
+You don't have to start on board 1 if you have reached a later board. You
+can select which board to start on at the title screen, but your score will
+start at zero.
+
+
+Summary of Keys
+===============
+
+In game:
+---------------------------------------------------------------
+Arrow keys  Move around
+DEL         Suicide (lose a life and restart the current board)
+CLEAR       End game
+
+
+Credits
+=======
+Original game created by Avery Pack
+
+
+
+Send any comments, ideas, or other feedback to badja@alphalink.com.au
